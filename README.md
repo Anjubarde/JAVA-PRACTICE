@@ -1,1 +1,2 @@
 # JAVA-PRACTICE
+To strengthen my Java programming skills, I consistently solve a variety of random Java programming problems that focus on logic building, data structures, and core concepts like OOP, exception handling, and file I/O. In addition, I have completed 5–6 small-scale Java projects that apply these concepts in practical scenarios. This self-driven approach has improved my problem-solving ability, code efficiency, and hands-on experience with core Java features.
